@@ -14,7 +14,6 @@
 
 ### Learning
 - 자바 ORM 표준 JPA 프로그래밍 - 기본편
-- 테스트주도개발(켄트백)
 
 ## Education & Experience📗
 
